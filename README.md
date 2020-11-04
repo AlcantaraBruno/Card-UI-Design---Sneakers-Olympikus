@@ -4,7 +4,7 @@ CSS project with the purpose of studying animations and transitions. Olympikus i
 
 ## Available Scripts
 
-###### `Open the Index.html file in the browser`
+##### `Open the Index.html file in the browser`
 
 ## Preview
 
