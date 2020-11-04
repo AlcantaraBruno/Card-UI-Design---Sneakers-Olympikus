@@ -1,4 +1,4 @@
-# Card-UI-Design-Sneakers-Olympikus
+# Card UI Design Sneakers Olympikus
  
 CSS project with the purpose of studying animations and transitions. Olympikus is a Brazilian tennis brand.
 
